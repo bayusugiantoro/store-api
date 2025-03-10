@@ -42,7 +42,7 @@ Using CLI migration tool like `golang-migrate` or `goose`.
 migrate -database "postgres://user:password@localhost:5432/dbname?sslmode=disable" -path migrations up
 ```
 
-### 4. RDBMS
+### 4. ERD
 
 ![App Screenshot](./assets/RDBMS.JPG)
 
